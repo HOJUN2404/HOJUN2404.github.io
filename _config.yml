@@ -7,16 +7,16 @@ theme: jekyll-theme-chirpy
 # and doesn't have a custom domain.
 baseurl: ''
 
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
+# The language of the webpage �� http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
+# Change to your timezone �� http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
 
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ --------------------------
+# jekyll-seo-tag settings �� https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+# �넃 --------------------------
 
 title: Chirpy                          # the main title
 
@@ -28,10 +28,10 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://HOJUN2404.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: HOJUN2404            # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -51,7 +51,7 @@ social:
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
-# ↑ --------------------------
+# �넁 --------------------------
 
 
 google_analytics:
@@ -89,7 +89,7 @@ toc: true
 
 disqus:
   comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  shortname: ''    # Fill with your Disqus shortname. �� https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 paginate: 10
 
@@ -97,7 +97,7 @@ paginate: 10
 
 kramdown:
   syntax_highlighter: rouge
-  syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
+  syntax_highlighter_opts:   # Rouge Options �� https://github.com/jneen/rouge#full-options
     css_class: highlight
     # default_lang: console
     span:
